@@ -4,8 +4,6 @@ class CreateEntries < ActiveRecord::Migration[7.0]
       t.string :title
       t.text :body
       t.date :posted_on
-      t.timestamp :created_at
-      t.timestamp :updated_at
       t.integer :blog_id
 
       t.timestamps
