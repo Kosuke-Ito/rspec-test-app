@@ -1,0 +1,15 @@
+current directory: /Users/kosuke/fjord/rspec-on-rails/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/kosuke/.rbenv/versions/3.0.1/bin/ruby -I /Users/kosuke/.rbenv/versions/3.0.1/lib/ruby/3.0.0 -r ./siteconf20220203-32913-c8v496.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kosuke/fjord/rspec-on-rails/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /Users/kosuke/fjord/rspec-on-rails/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/kosuke/fjord/rspec-on-rails/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20220203-32913-5cbrll/skiptrace/internal
